@@ -2,10 +2,10 @@
 title: Contact
 logo: img/logo-piccolo-zbestmusic.jpeg
 contact_entries:
+  - heading: Disponibilità
+    text: da lunedì al sabato dalle 9:00 alle 19:00
   - heading: Location
     text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
 We’d love to get in touch with you and hear your ideas and
