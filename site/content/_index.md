@@ -1,13 +1,10 @@
 ---
 title: Z•Best Music
 subtitle: music and more!
-image: /img/home-jumbotron.jpg
+image: img/beppe-tromba-blu-sx.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Produzioni, creazioni
+  text: la musica è un cos che fa star bene!
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
