@@ -4,7 +4,7 @@ subtitle: music and more!
 image: img/beppe-tromba-blu-sx.jpg
 blurb:
   heading: Produzioni, creazioni
-  text: la musica è un cosa che fa star bene!
+  text: la musica è un cos che fa star bene!
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -12,6 +12,8 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
+  - text: dadadada
+    image: img/beppe-tromba-blu-sx.jpg
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
