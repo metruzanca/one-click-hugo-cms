@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Curriculum
 image: img/marchio-zbestmusic.jpg
 values:
   - heading: Curriculum
