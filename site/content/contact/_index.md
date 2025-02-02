@@ -5,7 +5,7 @@ contact_entries:
   - heading: Disponibilità
     text: da lunedì al sabato dalle 9:00 alle 19:00
   - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: via Giordano Bruno, 68 - Meldola (FC) - Italy
 ---
 
 We’d love to get in touch with you and hear your ideas and
