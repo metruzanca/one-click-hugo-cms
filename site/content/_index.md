@@ -9,7 +9,7 @@ intro:
   heading: Cosa offriamo?
   text: Arrangiamenti, registrazioni, mix
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/zancastudio.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
